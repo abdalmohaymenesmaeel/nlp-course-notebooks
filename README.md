@@ -9,6 +9,7 @@ This repository contains the notebooks for ShAI's Natural Language Processing co
 | [Pytorch Basics 2](PyTorch-Basics-2.ipynb)               | 0       | 3       | Creating neural networks with PyTorch        |          |
 | [Pytorch Basics Exercise](PyTorch-Basics-Exercise.ipynb) | 0       | 3       | Practice neural networks with PyTorch        | ✔️        |
 | [Regex Basics](Regular-Expressions-Basics.ipynb)         | 0       | 4       | Introduction to Regular Expressions          |          |
+| [Text Preprocessing](Text-Preprocessing.ipynb)           | 1       | all     | Apply preprocessing to text                  | ✔️        |
 
 
 ## Instructions
